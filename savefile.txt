@@ -1,0 +1,2 @@
+White/Black
+rnbq1bQr/ppp1k1pp/2n5/8/8/8/PPPP1PPP/RNBQKBNR b KQ - 0 5
